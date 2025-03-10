@@ -10,6 +10,12 @@
     border-radius: 70px;
 }
 
+.img-section {
+    width: 18vw;
+    height: 18vh;
+    border-radius: 70px;
+}
+
 @media screen and (max-width: 455px) {
 
     .logo-img {
