@@ -1,0 +1,20 @@
+.landing-page {
+    background-image: url(https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?cs=srgb&dl=pexels-jplenio-1103970.jpg&fm=jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo-img {
+    width: 3vw;
+    height: 4vh;
+    border-radius: 70px;
+}
+
+@media screen and (max-width: 455px) {
+
+    .logo-img {
+        width: 40vw;
+        height: 40vh;
+        border-radius: 70px;
+    }
+}
